@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0009-palindrome-number) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
