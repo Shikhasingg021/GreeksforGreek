@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
@@ -36,9 +38,22 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
