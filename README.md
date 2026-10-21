@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
