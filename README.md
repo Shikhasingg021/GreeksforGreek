@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
