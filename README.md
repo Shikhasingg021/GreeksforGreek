@@ -95,4 +95,20 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
