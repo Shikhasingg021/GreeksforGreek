@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0912-sort-an-array) |
 ## Matrix
@@ -32,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
