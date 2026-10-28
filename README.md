@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0014-longest-common-prefix) |
+| [0071-simplify-path](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0071-simplify-path) |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1108-defanging-an-ip-address) |
@@ -102,6 +103,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 ## Tree
