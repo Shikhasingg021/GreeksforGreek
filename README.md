@@ -106,6 +106,7 @@
 | [0071-simplify-path](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
@@ -130,4 +131,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
