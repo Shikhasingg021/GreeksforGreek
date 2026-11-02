@@ -111,16 +111,19 @@
 | [0232-implement-queue-using-stacks](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
