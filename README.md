@@ -158,6 +158,7 @@
 | [0584-find-customer-referee](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
