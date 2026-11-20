@@ -16,6 +16,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0867-transpose-matrix) |
 ## String
@@ -26,6 +27,7 @@
 | [0071-simplify-path](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -49,6 +51,7 @@
 | [0007-reverse-integer](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
