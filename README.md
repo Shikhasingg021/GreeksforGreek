@@ -9,6 +9,7 @@
 | [0496-next-greater-element-i](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0496-next-greater-element-i) |
 | [0867-transpose-matrix](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0912-sort-an-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Matrix
 |  |
 | ------- |
