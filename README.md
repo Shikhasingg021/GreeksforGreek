@@ -53,6 +53,7 @@
 | [0268-missing-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/0415-add-strings) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shikhasingg021/GreeksforGreek/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Sliding Window
 |  |
 | ------- |
